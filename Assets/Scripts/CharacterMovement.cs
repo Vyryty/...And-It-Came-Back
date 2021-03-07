@@ -5,7 +5,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class characterMovement : MonoBehaviour
+public class CharacterMovement : MonoBehaviour
 {
 
     public float speed = 10.4f;
